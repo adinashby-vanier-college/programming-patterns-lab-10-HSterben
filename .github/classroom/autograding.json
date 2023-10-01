@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "spellcheckerTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests LabTenTests.spellcheckerTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "spellcheckerTest2",
+      "setup": "",
+      "run": "gradle test --tests LabTenTests.spellcheckerTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "spellcheckerTest3",
+      "setup": "",
+      "run": "gradle test --tests LabTenTests.spellcheckerTest3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "spellcheckerTest4",
+      "setup": "",
+      "run": "gradle test --tests LabTenTests.spellcheckerTest4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
